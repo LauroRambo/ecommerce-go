@@ -4,6 +4,7 @@ import (
 	"log"
 	"os"
 
+	"github.com/LauroRambo/ecommerce-go/database"
 	"github.com/LauroRambo/ecommerce-go/routes"
 	"github.com/gin-gonic/gin"
 )
